@@ -18,7 +18,7 @@ This project is a simple and responsive **HTML/CSS webpage header** for a skinca
 
 - HTML5
 - CSS3
-- Google Fonts
+
 
 ---
 
