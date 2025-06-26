@@ -42,6 +42,7 @@ task.header/
    cd header-task
 
 🙌 Acknowledgments
-Design and development by Saniya Ahmed
+Design and development by Saniya Ahmed 
+Thanks to Miss Afsah for her sincere guidence
 
 
